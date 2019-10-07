@@ -1,18 +1,21 @@
+@charset "ISO-8859-1";
+
 body {
-    background-color: gray;
+  background-image: url("https://media.giphy.com/media/wPqYCxfvyWzIs/giphy.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right;
 }
-body {background-image: url(https://st.depositphotos.com/1011833/2842/i/950/depositphotos_28420193-stockafbeelding-britse-grijze-kitten-geeft-paw.jpg); }
-div body {background-image: url(https://st.depositphotos.com/1011833/2842/i/950/depositphotos_28420193-stockafbeelding-britse-grijze-kitten-geeft-paw.jpg); }
 p {
     font-family: fantasy;
 }
 
 #special {
-    color: violet;
+    color: blue;
 }
 
 h1, h2, h3 {
-    color: yellow;
+    color: red;
 }
 
 .myClass {
