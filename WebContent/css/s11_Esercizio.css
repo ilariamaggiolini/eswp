@@ -1,5 +1,8 @@
 @charset "ISO-8859-1";
-
+html {background-image: url("https://image.freepik.com/vettori-gratuito/sfondo-sfocato_1034-245.jpg");
+  	background-repeat: no-repeat;
+ 	background-attachment: fixed;
+  	background-size: 100%;}
 body {
   background-image: url("https://media.giphy.com/media/wPqYCxfvyWzIs/giphy.gif");
   background-repeat: no-repeat;
