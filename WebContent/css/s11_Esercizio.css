@@ -1,20 +1,17 @@
 @charset "ISO-8859-1";
-html {background-image: url("https://image.freepik.com/vettori-gratuito/sfondo-sfocato_1034-245.jpg");
+html {
+	background-image: url("https://data.whicdn.com/images/165999395/large.jpg");
   	background-repeat: no-repeat;
-  	background-size: 100%;}
+  	background-size: 100%;
+}
 
 body {
   background-image: url("https://media.giphy.com/media/lKQlwPamON5NS/giphy.gif");
+  background-position:top-left;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: left;
 }
-body {
-  background-image: url("https://media.giphy.com/media/wPqYCxfvyWzIs/giphy.gif");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: right;
-}
+
 p {
     font-family: arial;
 }
