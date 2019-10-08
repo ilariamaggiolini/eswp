@@ -46,7 +46,7 @@
 
             if (this.status != 200) {
                 target.value += "[Something went wrong: " + this.status + "]\n";
-                return;
+                return; //pagina 404 è una response
             }
 
             target.value += this.responseText;
